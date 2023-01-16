@@ -69,13 +69,6 @@ h3 {
     width: 33.33%;
   }
   
-  div#box1.box {
-    margin-right: 5px;
-  }
-  div#box2.box {
-    margin-right: 5px;
-  }
-  
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
