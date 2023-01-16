@@ -4,13 +4,6 @@
   padding: 0;
 }
 
-html {
-  background-color: #ffb3ff;
-}
-
-body {
-  font-family: "Truculenta", "Arial", sans-serif;
-}
 
 h1 {
   padding: 15px 0 15px 0;
@@ -34,7 +27,7 @@ h1 {
 
 p {
   padding: 40px 10px 4px 10px;
-  text-align: justify;
+  text-align: left;
 }
 
 h3 {
@@ -51,15 +44,16 @@ h3 {
 }
 
 #label1 {
-  background: #73e600;
+  background-color: pink;
 }
 
 #label2 {
-  background: #ff0055;
+  color: white;
+  background-color: red;
 }
 
 #label3 {
-  background: #00bfff;
+  background-color: yellow;
 }
 
 
