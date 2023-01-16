@@ -8,6 +8,18 @@
   padding-right: 30px;
 }
 
+.left {
+  padding: 20px;
+}
+
+.middle {
+  padding: 20px;
+}
+
+.right {
+  padding: 20px;
+}
+
 p {
   padding: 15px;
 }
