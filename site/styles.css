@@ -56,16 +56,11 @@ h3 {
 }
 
 
-/* Desktop */
-
 @media (min-width: 992px) and (max-width: 2560px) {
   .box {
     width: 33.33%;
   }
 }
-
-
-/* Tablet */
 
 @media (min-width: 768px) and (max-width: 991px) {
   div#box1.box {
@@ -79,8 +74,6 @@ h3 {
   }
 }
 
-
-/* Mobile */
 
 @media (min-width: 320px) and (max-width: 767px) {
   .box {
