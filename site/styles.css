@@ -7,19 +7,19 @@
   
 }
 
-.color {
+#color {
   background-color: gray;
 }
 
-.t-color-1 {
+#t-color-1 {
   background-color: pink;
 }
 
-.t-color-2 {
+#t-color-2 {
   color: white
   background-color: red;
 }
 
-.t-color-2 {
+#t-color-2 {
   background-color: yellow;
 }
