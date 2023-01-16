@@ -11,19 +11,15 @@
 }
 
 
-.container {
-  column-gap: 10px;
-  padding-left: 15px;
-  padding-right: 15px;
-  height: auto;
-}
+
 
 .box {
   display: inline-block;
   background: #808080;
-  border: 1px solid black;
+  border: 2px solid black;
   position: relative;
   height: auto;
+  padding-left: 10px;
   margin-bottom: 15px;
 }
 
