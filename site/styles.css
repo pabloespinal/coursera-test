@@ -15,6 +15,10 @@
   padding-left: 15px;
   padding-right: 15px;
   height: auto;
+  display: flex; 
+  flex-wrap: wrap;  
+  flex: 0 0 30%; 
+  justify-content:space-between;
 }
 
 .box {
@@ -23,7 +27,8 @@
   border: 1px solid black;
   position: relative;
   height: auto;
-  margin: 2px;
+  width: 30%;
+  margin-bottom: 15px;
 }
 
 p {
