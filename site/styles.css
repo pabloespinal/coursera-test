@@ -12,11 +12,7 @@
 
 
 .container {
-  display: grid;
-  height: 100px;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: 100px;
-  column-gap: 20px;
+  column-gap: 10px;
   padding-left: 15px;
   padding-right: 15px;
   height: auto;
@@ -28,7 +24,6 @@
   border: 1px solid black;
   position: relative;
   height: auto;
-  column-gap: 10px;
   margin-bottom: 15px;
 }
 
