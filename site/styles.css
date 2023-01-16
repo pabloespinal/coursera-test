@@ -4,12 +4,11 @@
   padding: 0;
 }
 
-
-h1 {
-  padding: 15px 0 15px 0;
+.main-title {
+  padding: 20px;
   text-align: center;
-  font-size: 1.75em;
 }
+
 
 .container {
   width: 100%;
@@ -18,7 +17,7 @@ h1 {
 
 .box {
   display: inline-block;
-  background: #ffffe6;
+  background: #808080;
   border: 1px solid black;
   position: relative;
   height: auto;
