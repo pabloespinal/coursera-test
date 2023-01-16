@@ -44,15 +44,21 @@ h3 {
 }
 
 #sub-title-1 {
+  padding-left: 10px;
+  padding-right: 10px;
   background-color: pink;
 }
 
 #sub-title-2 {
   color: white;
+  padding-left: 10px;
+  padding-right: 10px;
   background-color: red;
 }
 
 #sub-title-3 {
+  padding-left: 10px;
+  padding-right: 10px;
   background-color: yellow;
 }
 
