@@ -24,11 +24,10 @@
   position: relative;
   height: auto;
   margin-bottom: 10px;
-  margin-right: 5px;
 }
 
 p {
-  padding: 40px 10px 4px 10px;
+  padding: 40px 10px 10px 10px;
   text-align: left;
 }
 
@@ -67,7 +66,7 @@ h3 {
 
 @media (min-width: 992px) and (max-width: 2560px) {
   .box {
-    width: 33%;
+    width: 33.33%;
   }
 }
 
