@@ -10,7 +10,11 @@
   text-align: center;
 }
 
-
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+  height: auto;
+}
 
 
 .box {
@@ -19,7 +23,6 @@
   border: 2px solid black;
   position: relative;
   height: auto;
-  margin-left: 2px;
   margin-bottom: 15px;
 }
 
