@@ -28,15 +28,27 @@ p {
   background-color: gray;
 }
 
-#t-color-1 {
+.title-left {
   background-color: pink;
+}
+
+.title-middle {
+  background-color: red;
+}
+
+.title-right {
+  background-color: yellow;
+}
+
+#t-color-1 {
+  padding: 8px,20px,8px,20px;
 }
 
 #t-color-2 {
   color: white;
-  background-color: red;
+  padding: 8px,20px,8px,20px;
 }
 
 #t-color-3 {
-  background-color: yellow;
+  padding: 8px,20px,8px,20px;
 }
