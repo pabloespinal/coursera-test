@@ -5,7 +5,8 @@
 }
 
 .main-title {
-  padding: 20px;
+  padding-top: 25px;
+  padding-bottom: 40px;
   text-align: center;
 }
 
@@ -42,16 +43,16 @@ h3 {
   width: 100px;
 }
 
-#label1 {
+#title-1 {
   background-color: pink;
 }
 
-#label2 {
+#title-2 {
   color: white;
   background-color: red;
 }
 
-#label3 {
+#title-3 {
   background-color: yellow;
 }
 
